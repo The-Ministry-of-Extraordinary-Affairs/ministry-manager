@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "bulma": "^0.8.1",
-    "rollup-plugin-postcss": "^2.5.0",
+    "rollup-plugin-postcss": "^4.0.2",
     "sirv-cli": "^0.4.4"
   }
 }
